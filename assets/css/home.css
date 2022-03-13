@@ -1,0 +1,17 @@
+
+body{
+           background-color: beige;
+           
+           padding: 20px;
+  text-align: center;
+
+  margin-top: 200px;
+  margin-right:18%;
+}
+a:link{
+ text-decoration: none;
+ font-size: 30px;
+}
+a:hover{
+text-decoration: underline;
+}
